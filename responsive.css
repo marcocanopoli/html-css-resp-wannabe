@@ -1,5 +1,5 @@
 /* Tablet portrait */
-@media screen and (max-width: 1278px) {
+@media screen and (max-width: 1199px) {
     * {
         box-sizing: border-box;
         margin: 0;
