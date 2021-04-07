@@ -50,7 +50,10 @@
     body {
         font-size: 1.2em;
     }
-      
+    
+    h3 {
+        padding-bottom: 15px;
+    }
     .row {
         padding: 10px;
     }
